@@ -3,7 +3,7 @@
 def lowerf(string):  # Define a função lowerf
     """
         Função que retorna uma string somente com caracteres minúsculos.
-        seq: string qualquer.
+        string: string qualquer.
         Retorna uma string somente com caracteres minúsculos.
     """
 

@@ -1,7 +1,7 @@
 def isupperf(char):  # Define a função isupperf
     """
         Função que verifica se um caracter (lingua portuguesa) é maiúsculo.
-        seq: caracter de uma string (lingua portuguesa).
+        char: caracter de uma string (lingua portuguesa).
         Retorna True se for maiúsculo e False caso contrário.
     """
 

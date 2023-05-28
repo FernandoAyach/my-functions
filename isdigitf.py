@@ -1,7 +1,7 @@
 def isdigitf(string):  # Define a função isdigitf
     """
         Função que verifica se todos os caracteres de um string são dígitos.
-        seq: string.
+        string: string qualquer.
         Retorna True se forem todos digitos e False se pelo menos um não for.
     """
 

@@ -1,7 +1,7 @@
 def islowerf(char):  # Define a função islowerf
     """
         Função que verifica se um caracter (lingua portuguesa) é minúsculo.
-        seq: caracter de uma string (lingua portuguesa).
+        char: caracter de uma string (lingua portuguesa).
         Retorna True se for minúsculo e False caso contrário.
     """
 
