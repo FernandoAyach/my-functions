@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 def lowerf(string):  # Define a função lowerf
-    
     """
         Função que retorna uma string somente com caracteres minúsculos.
         seq: string qualquer.

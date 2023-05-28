@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 def upperf(string):  # Define a função upperf
-    
     """
         Função que retorna uma string somente com caracteres maiusculos.
         seq: string qualquer.
